@@ -36,3 +36,10 @@ FROM paveloom/binder-julia:tag
 where the `tag` is one of the following:
 
 * [0.1.0](https://github.com/paveloom-d/binder-julia/releases/tag/v0.1.0)
+
+### Can I easily see what it looks like?
+
+Absolutely. For example, here's a
+[link](https://mybinder.org/v2/gh/paveloom-d/binder-base/master?urlpath=lab) to run a
+Binder instance from the stable `master` branch. You may notice that a new kernel has been
+added.
