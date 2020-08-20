@@ -14,8 +14,8 @@ COPY scripts /scripts
 # Allow their execution
 RUN sudo chmod -R +x /scripts
 
-# Add `~/Other/julia/bin` to the `PATH`
-ENV PATH=$PATH:/home/$USER/Other/julia/bin
+# Add `/usr/other/$USER/julia/bin` to the `PATH`
+ENV PATH=$PATH:/usr/other/$USER/julia/bin
 
 # Install Julia
 RUN /scripts/user/julia/install-julia.sh
