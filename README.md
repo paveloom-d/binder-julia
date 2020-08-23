@@ -21,6 +21,12 @@ description, see under the spoiler:
     (0.1.1)
   </li>
   <li>Julia (1.5.0)</li>
+  <ul>
+    <li>Packages</li>
+    <ul>
+      <li><a href="https://github.com/JuliaLang/IJulia.jl">IJulia.jl</a></li>
+    <ul>
+  </ul>
 </ul>
 </details>
 
