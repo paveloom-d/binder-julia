@@ -20,7 +20,7 @@ description, see under the spoiler:
     <a href="https://github.com/paveloom-d/binder-base">paveloom/binder-base</a>
     (0.1.1)
   </li>
-  <li>Julia (1.5.0)</li>
+  <li>Julia (1.5.1)</li>
   <ul>
     <li>Packages</li>
     <ul>
