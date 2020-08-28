@@ -1,2 +1,2 @@
 # Base image
-FROM paveloom/binder-julia:0.1.0
+FROM paveloom/binder-julia:0.1.1
