@@ -18,11 +18,11 @@ description, see under the spoiler:
   <li>
     Base image:
     <a href="https://github.com/paveloom-d/binder-base">paveloom/binder-base</a>
-    (0.1.2)
+    (0.1.3)
   </li>
-  <li>Julia (1.5.1)</li>
+  <li>Julia (1.5.2):</li>
   <ul>
-    <li>Packages</li>
+    <li>Packages:</li>
     <ul>
       <li><a href="https://github.com/JuliaLang/IJulia.jl">IJulia.jl</a></li>
     <ul>
@@ -41,6 +41,7 @@ FROM paveloom/binder-julia:tag
 
 where the `tag` is one of the following:
 
+* [0.1.2](https://github.com/paveloom-d/binder-julia/releases/tag/v0.1.2)
 * [0.1.1](https://github.com/paveloom-d/binder-julia/releases/tag/v0.1.1)
 * [0.1.0](https://github.com/paveloom-d/binder-julia/releases/tag/v0.1.0)
 
